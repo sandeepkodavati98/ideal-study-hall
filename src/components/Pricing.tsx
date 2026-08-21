@@ -41,7 +41,7 @@ export default function Pricing() {
               </div>
               <div className="flex items-center gap-2.5">
                 <Check className="w-4 h-4 text-brand-teal flex-shrink-0" />
-                <span>Full access from <strong>6:00 AM to 10:00 PM</strong> daily</span>
+                <span>Full access from <strong>6:00 AM to 11:30 PM</strong> daily</span>
               </div>
               <div className="flex items-center gap-2.5">
                 <Check className="w-4 h-4 text-brand-teal flex-shrink-0" />

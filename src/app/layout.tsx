@@ -59,7 +59,7 @@ export default function RootLayout({
           'Sunday',
         ],
         opens: '06:00',
-        closes: '22:00',
+        closes: '23:30',
       },
     ],
     url: 'https://idealstudyhall.com',

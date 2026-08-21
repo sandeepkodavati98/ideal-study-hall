@@ -91,7 +91,7 @@ export default function Hero() {
             {/* Verified Location & Timings Footer */}
             <div className="flex items-center gap-2 text-xs text-gray-500 font-medium">
               <MapPin className="w-4 h-4 text-brand-maroon flex-shrink-0" />
-              <span>Beside Siri Dairy, Jampeta, Rajahmundry • <strong>6:00 AM to 10:00 PM</strong> Daily</span>
+              <span>Beside Siri Dairy, Jampeta, Rajahmundry • <strong>6:00 AM to 11:30 PM</strong> Daily</span>
             </div>
 
           </div>

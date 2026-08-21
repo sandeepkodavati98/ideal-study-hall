@@ -15,7 +15,7 @@ export default function Navbar() {
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-1 font-medium text-center sm:text-left">
           <div className="flex items-center gap-2">
             <Clock className="w-3.5 h-3.5 text-brand-gold" />
-            <span>Open Daily: 6:00 AM – 10:00 PM</span>
+            <span>Open Daily: 6:00 AM – 11:30 PM</span>
             <span className="text-gray-300 hidden sm:inline">|</span>
             <span className="hidden sm:inline">Beside Siri Dairy, Jampeta, Rajahmundry</span>
           </div>

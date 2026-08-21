@@ -39,7 +39,7 @@ export default function LocationContact() {
                 <div>
                   <h3 className="text-sm font-bold text-gray-900">Daily Study Hours</h3>
                   <p className="text-xs text-gray-600 mt-0.5">
-                    <strong>6:00 AM – 10:00 PM</strong> (Open 7 Days a Week)
+                    <strong>6:00 AM – 11:30 PM</strong> (Open 7 Days a Week)
                   </p>
                 </div>
               </div>

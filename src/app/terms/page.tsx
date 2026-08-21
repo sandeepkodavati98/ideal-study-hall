@@ -14,7 +14,7 @@ export default function TermsPage() {
 
       <section className="space-y-2">
         <h2 className="text-base font-bold text-gray-900">2. Study Hours & Access</h2>
-        <p>Members have access to their allotted cabin during operational hours (6:00 AM to 10:00 PM daily). Ideal Study Hall reserves the right to announce scheduled maintenance or festival holiday hours in advance.</p>
+        <p>Members have access to their allotted cabin during operational hours (6:00 AM to 11:30 PM daily). Notice of at least 3 days is required prior to vacating your cabin.</p>
       </section>
 
       <section className="space-y-2">
