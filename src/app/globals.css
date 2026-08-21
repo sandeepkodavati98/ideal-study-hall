@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-maroon: #58111A;
+  --primary-teal: #1D8A8A;
+  --primary-gold: #D4AF37;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: #1f2937;
+  background-color: #FAFAFB;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  overflow-x: hidden;
+}
+
+/* Subtle academic paper grid pattern */
+.bg-grid-pattern {
+  background-size: 32px 32px;
+  background-image: 
+    linear-gradient(to right, rgba(0, 0, 0, 0.035) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.035) 1px, transparent 1px);
+}
+
+/* Subtle dark grid pattern for footer / dark cards */
+.bg-grid-pattern-dark {
+  background-size: 28px 28px;
+  background-image: 
+    linear-gradient(to right, rgba(255, 255, 255, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+}
+
+/* Ambient Radial Glows */
+.ambient-glow-teal {
+  background: radial-gradient(circle at 50% 50%, rgba(29, 138, 138, 0.08) 0%, transparent 70%);
+}
+
+.ambient-glow-maroon {
+  background: radial-gradient(circle at 50% 50%, rgba(88, 17, 26, 0.06) 0%, transparent 70%);
+}
