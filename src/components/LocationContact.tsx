@@ -82,7 +82,7 @@ export default function LocationContact() {
                 Message on WhatsApp
               </a>
               <a
-                href="https://share.google/rnokSYrzQnGjfYAPt"
+                href="https://maps.app.goo.gl/bo7TVmMAYTiP1AZc9"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex-1 inline-flex justify-center items-center gap-2 py-3 rounded-lg bg-gray-900 hover:bg-black text-white text-xs font-bold shadow-sm transition-colors"
